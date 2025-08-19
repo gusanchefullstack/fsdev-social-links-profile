@@ -39,10 +39,17 @@
     letter-spacing: 0px;
 }
 
-@utility card-width {
+@utility card-width-mobile {
     width: 327px;
 }
 
+@utility card-width-tablet {
+    width: 456px;
+}
+
+@utility card-width-desktop {
+    width: 384px;
+}
 @utility avatar-size {
     width: 88px;
     height: 88px;

@@ -1,6 +1,6 @@
 const SocialLinksProfileCard = () => {
   return (
-    <article className="bg-grey-800 p-6 rounded-xl card-width flex flex-col justify-center items-center gap-6">
+    <article className="bg-grey-800 p-6 sm:p-10 rounded-xl card-width-mobile sm:card-width-tablet md:card-width-desktop flex flex-col justify-center items-center gap-6">
       <img
         src="avatar-jessica.jpeg"
         alt="avatar"
