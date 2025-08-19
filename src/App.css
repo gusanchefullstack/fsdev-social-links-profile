@@ -70,5 +70,5 @@
 }
 
 .social-button {
-   @apply text-preset-2-bold bg-grey-700 p-4 rounded-lg w-full flex items-center justify-center hover:bg-green-card hover:cursor-pointer hover:text-grey-700;
+   @apply text-preset-2-bold bg-grey-700 p-3 rounded-lg w-full flex items-center justify-center hover:bg-green-card hover:cursor-pointer hover:text-grey-700;
 }
