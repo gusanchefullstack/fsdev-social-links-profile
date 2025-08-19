@@ -54,9 +54,19 @@
     width: 88px;
     height: 88px;
 }
-@utility containter-padding {
+@utility containter-padding-mobile {
     padding-top: 116.5px;
     padding-bottom: 116.5px;
+}
+
+@utility containter-padding-tablet {
+    padding-top: 206.5px;
+    padding-bottom: 206.5px;
+}
+
+@utility containter-padding-desktop {
+    padding-top: 174.5px;
+    padding-bottom: 174.5px;
 }
 
 .social-button {
